@@ -1,0 +1,60 @@
+_repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1887-Ninth-Report-Vol-II-No-4_66152
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barrington, Richard Manliffe
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '53366'
+    url: http://www.gutenberg.org/2009/agents/53366
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Barrington
+  - agent_name: Cordeaux, John
+    alias: Cordeaux, J.
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '53325'
+    url: http://www.gutenberg.org/2009/agents/53325
+    wikipedia: https://en.wikipedia.org/wiki/John_Cordeaux_(ornithologist)
+  - agent_name: Clarke, William Eagle
+    alias: Clarke, W. Eagle
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '53465'
+    url: http://www.gutenberg.org/2009/agents/53465
+    wikipedia: https://en.wikipedia.org/wiki/William_Eagle_Clarke
+  - agent_name: Harvie-Brown, J. A. (John Alexander)
+    aliases:
+    - Harvie-Brown, John Alexander
+    - Harvie-Brown, John A.
+    - Brown, J. A. Harvie
+    - Brown, John A. Harvie
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '53324'
+    url: http://www.gutenberg.org/2009/agents/53324
+    wikipedia: https://en.wikipedia.org/wiki/John_Alexander_Harvie-Brown
+  - agent_name: More, Alexander Goodman
+    aliases:
+    - Goodman More, Alexander
+    - More, A. G.
+    birthdate: 1830
+    deathdate: 1895
+    gutenberg_agent_id: '53367'
+    url: http://www.gutenberg.org/2009/agents/53367
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Goodman_More
+description: ''
+gutenberg_issued: '2021-08-27'
+identifiers:
+  gutenberg: '66152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Migration -- Ireland -- Periodicals'
+- !lcsh 'Birds -- Migration -- Great Britain -- Periodicals'
+- GITenberg
+title: "Report on the Migration of Birds in the Spring and Autumn of 1887. Ninth Report\r\
+  \n(Vol. II, No. 4.)"
+url: http://www.gutenberg.org/ebooks/66152
